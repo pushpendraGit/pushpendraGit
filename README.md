@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👯 I’m looking to collaborate on [Walmart](https://www.walmart.com/)
+- 👯 I’m looking to collaborate on [Simpplr](https://www.simpplr.com/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/pushpendraGit?tab=repositories](https://github.com/pushpendraGit?tab=repositories)
 
